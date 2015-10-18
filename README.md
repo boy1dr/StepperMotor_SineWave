@@ -2,9 +2,8 @@
 
 Driving a bipolar stepper motor using sine waves
 
-See it in action here
-
 Super resolution: https://youtu.be/qB4mTp6XKKE
+
 Mega resolution: https://youtu.be/HtiUTXUM4Yc
 
 
