@@ -4,7 +4,9 @@ Driving a bipolar stepper motor using sine waves
 
 See it in action here
 Super resolution: https://youtu.be/qB4mTp6XKKE
+
 Mega resolution: https://youtu.be/HtiUTXUM4Yc
+
 
 After researching stepper motor design i could see why all designs for stepper motor control uses a series of fixed voltage pulses. They do this to 'snap' to the next step and it increases holding power of the motor. This is useful for hardware such as 3d printers and CNC mills. It also gives stepper motors that characteristic noise (square wave PWM).
 
